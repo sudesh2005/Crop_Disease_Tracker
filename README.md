@@ -258,13 +258,4 @@ Body: image file
 - Climate correlation studies
 - Agricultural trend analysis
 
-
-## 👥 Team
-
-- **Paras Ningune** - Team Lead & AI Engineer
-- **Siddhant Pote** - Frontend Developer
-- **Soham Mane** - Backend Developer
-
----
-
 **Made with ❤️ for sustainable agriculture and food security**
