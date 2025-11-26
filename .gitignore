@@ -1,0 +1,8 @@
+.DS_Store
+Dataset/
+.ipynb_checkpoints/
+node_modules/
+archive.zip
+Dataset-1
+AI
+.env
